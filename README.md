@@ -22,5 +22,5 @@ Witnessing the growth and application of AI in live trading machines of the fina
 
 ## Getting Started
 
-Follow the instructions in the subsequent sections to set up your environment, train the model with your dataset, and evaluate its performance on stock price forecasting tasks. This model has been tested on various datasets, including prominent technology companies, demonstrating its capability to accurately capture market trends and fluctuations.
+Follow the instructions in the subsequent sections to set up your environment, train the model with your dataset, and evaluate its performance on stock price forecasting tasks. This model has been tested on various datasets of prominent technology companies, demonstrating its capability to accurately capture market trends and shocks, surpassing RNNs-based models.
 
