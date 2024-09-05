@@ -2,7 +2,6 @@
 
 This project is conducted from November 2023 to April 2024. This repository contains the implementation of a novel lightweight Transformer model designed specifically for the task of univariate stock price forecasting. Leveraging the advanced capabilities of Transformer architectures, traditionally renowned for their success in natural language processing (NLP), our model adapts this powerful mechanism to the time series forecasting domain, focusing on predicting the future closing prices of stocks (e.g. IBM, AMZN, INTC, CSCO) with high accuracy and efficiency at minimal computational power. 
 
-![Your Banner](graphs/visualisation/gohs.png)
 
 ## Project Overview
 
