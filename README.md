@@ -1,7 +1,5 @@
 # LiteFormer: Lightweight Transformer for Financial Time Series Forecasting
 
-## Overview
-
 LiteFormer is an encoder-only Transformer model optimized for univariate financial time series forecasting, targeting stock closing prices. Built with PyTorch, it leverages a compact architecture (`d_model=128`, `n_heads=8`, `n_layers=4`) to achieve efficient predictions on resource-constrained hardware. The model employs positional encoding, multi-head attention, and advanced optimization techniques (AdamW, OneCycleLR, early stopping) to deliver accurate single-step or multi-step forecasts, evaluated via Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
 ## Architecture
